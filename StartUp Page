@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="proj.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li>
+                HOME
+            </li>
+            <li>
+                ABOUT
+            </li>
+            <li>
+                CONTACTS
+            </li>
+        </ul>
+    </nav>
+    <div>
+
+         <div class="joyy1">
+             <img src="proj4.png" alt="world">
+         </div>
+
+         <div class="joyy2">
+            <h1 style="margin-top: 150px;"> 
+                WELCOME TO THE TECH WORLD!!!
+            </h1>
+         </div>
+
+    </div>
+
+    <div class="div">
+        <h3>Tech Ladies, a community devoted to helping women in technology startups get ahead in their career, does a great job of getting new members excited to join their community by using a fun image and one call-to-action (CTA). This showcases the personality that Tech Ladies embodies and shows new members exactly what they stand for.</h3>
+    </div>
+
+    <div>
+       <div class="div2">
+           <img src="proj2.png" alt="proj">
+       </div> 
+     </div>
+
+</body>
+</html>
